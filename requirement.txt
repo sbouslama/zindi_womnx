@@ -1,0 +1,15 @@
+pyshp ==2.1.0
+keras
+shapely==1.7.0
+opencv-python
+tqdm
+opencv-python
+ray[tune]
+seaborn
+lightgbm
+xgboost==1.0.0
+catboost==0.21
+autofeat
+vincenty
+tpot
+pandas 
